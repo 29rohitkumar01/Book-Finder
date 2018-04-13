@@ -1,0 +1,1 @@
+This projects uses Google Books API in order to search for books and display the details.Book can be latered saved for other purpose.
